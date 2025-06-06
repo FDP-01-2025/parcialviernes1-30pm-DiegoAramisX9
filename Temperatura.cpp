@@ -14,7 +14,7 @@ int main(){
         cout << "la temperatura esta templada" << endl;
     } 
     else if (temp > 25){
-        cout << "La temperatura esta muy caliente" << endl;
+        cout << "La temperatura ingresada esta muy caliente" << endl;
     }
     
 }
